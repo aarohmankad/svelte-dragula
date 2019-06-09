@@ -1,68 +1,14 @@
-*Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+[![logo.svg][3]][2]
 
----
+> Drag and drop so simple it hurts
 
-# svelte app
+Official React wrapper for [`dragula`][4]. This is an extreme work in progress. It is nowhere near ready for use in development or production. Check back soon!
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+# License
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+MIT
 
-```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
-```
-
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
-
-
-## Get started
-
-Install the dependencies...
-
-```bash
-cd svelte-app
-npm install
-```
-
-...then start [Rollup](https://rollupjs.org):
-
-```bash
-npm run dev
-```
-
-Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
-
-
-## Deploying to the web
-
-### With [now](https://zeit.co/now)
-
-Install `now` if you haven't already:
-
-```bash
-npm install -g now
-```
-
-Then, from within your project folder:
-
-```bash
-now
-```
-
-As an alternative, use the [Now desktop client](https://zeit.co/download) and simply drag the unzipped project folder to the taskbar icon.
-
-### With [surge](https://surge.sh/)
-
-Install `surge` if you haven't already:
-
-```bash
-npm install -g surge
-```
-
-Then, from within your project folder:
-
-```bash
-npm run build
-surge public
-```
+[1]: https://github.com/bevacqua/react-dragula/blob/master/resources/demo.png
+[2]: http://bevacqua.github.io/react-dragula/
+[3]: https://github.com/bevacqua/react-dragula/blob/master/resources/logo.png
+[4]: https://github.com/bevacqua/dragula
